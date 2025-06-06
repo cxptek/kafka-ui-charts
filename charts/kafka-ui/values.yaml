@@ -161,3 +161,9 @@ initContainers: {}
 volumeMounts: {}
 
 volumes: {}
+
+hostAliases: []
+#  - ip: "1.2.3.4"
+#    hostnames:
+#    - "abc.com"
+#    - "def.com"
